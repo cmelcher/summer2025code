@@ -29,7 +29,7 @@ The tutorial can be used in classrooms, outreach events, or for self-study.
 
 ## Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software) (for `.ino` + `.h` files)  
-- Python 3.x with packages: `numpy`, `opencv-python`, `tensorflow` (for training)  
+- Python 3.x with packages: `numpy`, `matplotlib.pyplot`, `serial`, `os`,  `tensorflow` (for training)  
 - Hardware: Arduino Nano 33 BLE Sense  
 
 ---
