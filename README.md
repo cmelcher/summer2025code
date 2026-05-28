@@ -1,10 +1,8 @@
 # Tutorial: Optimization, Neural Networks, and TinyML (Summer 2025)
 
-This repository provides a hands-on tutorial for learning about optimization, neural networks, and TinyML using the Arduino Nano 33 BLE Sense.  
-It introduces key ideas like gradient descent, classification (binary and multi-class), and deploying neural networks on microcontrollers.
+This repository provides a hands-on tutorial for learning about optimization, neural networks, and TinyML using the Arduino Nano 33 BLE Sense. It introduces key ideas like gradient descent, classification (binary and multi-class), and deploying neural networks on microcontrollers.
 
-No prior background in calculus or coding is assumed: the activities are designed to be accessible to high school and undergraduate students.  
-The tutorial can be used in classrooms, outreach events, or for self-study.
+No prior background in calculus or coding is assumed: the activities are designed to be accessible to high school and undergraduate students. The tutorial can be used in classrooms, outreach events, or for self-study.
 
 ---
 
